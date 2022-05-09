@@ -57,3 +57,4 @@ https://github.com/akashshyamdev/mongoose-query-methods-cheatsheet
 
 https://drive.google.com/file/d/1ZEcnJi6oglVQ5qkVnumYdPXvyVHBk7Ck/view?usp=sharing
 
+https://mongoosejs.com/docs/queries.html
